@@ -61,4 +61,4 @@ from the documentation.
 9. Follow installation
 ----
 
-*Project **Project name** for **Company name** made by RedKnife Studio sp. z o.o.*
+*Project **Młody Dolny śląsk** made by RedKnife Studio sp. z o.o.*
