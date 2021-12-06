@@ -7,9 +7,9 @@
 
 ## ChangeLog
 
-**DD.MM.YYYYr.** 
+**06.12.2021r.** 
 
-1. Created template for RedKnife Studio GitHub Repository
+1. Created project for RedKnife Studio GitHub Repository
 
 **DD.MM.YYYYr.**
 
